@@ -42,3 +42,4 @@ Go to http://localhost:3000/admin
 
 
 * ...
+# demo-spree
